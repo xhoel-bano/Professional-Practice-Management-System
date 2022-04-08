@@ -7,7 +7,7 @@ Moreover, as Professional Practice stands as a compulsory course in many univers
 * An automated way to manage Professional Practice course.
 * Increases reliability of paperwork.
 * Time-efficient.
-* Environmental friendly by reducing tons of paper used by students to document their work.
+* Eco friendly by reducing tons of paper used by students to document their work.
 * Helps students market themselves.
 * Helps business advertise their job vacancies.
 * Helps young graduate to stay in touch with businesses
