@@ -12,7 +12,7 @@ Moreover, as Professional Practice stands as a compulsory course in many univers
 * Helps business advertise their job vacancies.
 * Helps young graduate to stay in touch with businesses
 
-**Team:**
+**Bit7 Team:**
 * Ajla Hate
 * Anteo Guri
 * Drini Demushi
