@@ -11,3 +11,12 @@ Moreover, as Professional Practice stands as a compulsory course in many univers
 * Helps students market themselves.
 * Helps business advertise their job vacancies.
 * Helps young graduate to stay in touch with businesses
+
+**Team:**
+* Ajla Hate
+* Anteo Guri
+* Drini Demushi
+* Erta Tërshana
+* Gentian Elezi
+* Sara Ranxha
+* Xhoel Bano (C)
